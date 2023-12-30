@@ -20,6 +20,7 @@ export async function sendPostRequest(phoneNumber, password) {
   try {
     const response = await fetch(urls.api, requestOptions);
     const data = await response.json();
+    console.log(response);
     return data;
   } catch (error) {
     // Handle any error that occurred during the request

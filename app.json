@@ -20,15 +20,15 @@
         "foregroundImage": "./assets/icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.zeedatasub.zeedatasub",
-      "versionCode": 1
+      "package": "com.zeedatasubng.zeedatasubng",
+      "versionCode": 3
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
     "extra": {
       "eas": {
-        "projectId": "90435996-8bbb-43a1-9c4e-110aa3cfba7a"
+        "projectId": "893af65a-56b6-4f20-a160-a7cb2a990fb2"
       }
     }
   }
